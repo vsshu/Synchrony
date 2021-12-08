@@ -2,8 +2,11 @@
 Code for the assignment on behavioural synchrony and mimicry,
 for the course Core Topics AI at Tilburg University.
 
-The code was written to be used with the publicly available dataset ShakeFive2.
 
+The aggdata.cvs files contain the TLCC values for the eight fist bump and eight hug used interactions. 
+
+
+The code was written to be used with the publicly available dataset ShakeFive2.
 Fist bump files:
   21
   30
