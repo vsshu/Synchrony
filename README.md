@@ -1,5 +1,6 @@
 # Synchrony
-Assignment on behavioural synchrony and mimicry for the course Core Topics AI at Tilburg University.
+Code for the assignment on behavioural synchrony and mimicry,
+for the course Core Topics AI at Tilburg University.
 
 The code was written to be used with the publicly available dataset ShakeFive2.
 
